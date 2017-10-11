@@ -1,5 +1,5 @@
 # hello-world
 sample PUSH
 
-#Links
+# Links
 -[駒林ＳＣ](http://wwww.komabayashi-sc.com/)
